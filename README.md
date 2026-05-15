@@ -62,3 +62,21 @@ This project is to showcase the usage of Tableau to turn raw, complex data into 
 #### - Title can be edited & sheets can be renamed and to make the sheets interactive with each other > select Sales by Country Sheet> more options > use as filter
 
 ![](https://github.com/cynthiaalfred/Tableau-Sales-Report-Awesome-Chocolates/blob/main/Dashboard%20-%20Filters.png)
+
+###  $\color{Red}{\text{Business Summary}}$
+#### - Shows Total Amount, Boxes Sold & Shipments made
+#### - From SHOW ME > select table > Drag and drop Amount & Boxes Shipped
+
+![](https://github.com/cynthiaalfred/Tableau-Sales-Report-Awesome-Chocolates/blob/main/BS%20Dashboard.png)
+
+#### - Add Shipment count > Rename the sheet> Format for a better view from vertical by moving Measure Names from Rows to Columns> Edit Title and Personalise> 
+![](https://github.com/cynthiaalfred/Tableau-Sales-Report-Awesome-Chocolates/blob/main/Shipment%20Count.png)
+
+#### -  Fields can be formatted by adjusting the Font, size, alignment, number to currency > Add this sheet to the Dashboard
+
+![](https://github.com/cynthiaalfred/Tableau-Sales-Report-Awesome-Chocolates/blob/main/Business%20Summary%20Visualisation.png)
+
+
+###  $\color{Red}{\text{Dashboard}}$
+
+![](https://github.com/cynthiaalfred/Tableau-Sales-Report-Awesome-Chocolates/blob/main/Dashboard.png)
