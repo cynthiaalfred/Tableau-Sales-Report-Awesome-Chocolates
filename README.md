@@ -49,5 +49,16 @@ This project is to showcase the usage of Tableau to turn raw, complex data into 
 
 ![](https://github.com/cynthiaalfred/Tableau-Sales-Report-Awesome-Chocolates/blob/main/Top%2010%20Sales%20Person%20Visualisation.png)
 
+#### - Create a Dashboard (this presents an interactive report)
+![](https://github.com/cynthiaalfred/Tableau-Sales-Report-Awesome-Chocolates/blob/main/Creating%20Dashboard.png)
 
+#### - Tableau gives a canvas or space( the size option can be changed using Range > Selected Automatic to use whole space
+![](https://github.com/cynthiaalfred/Tableau-Sales-Report-Awesome-Chocolates/blob/main/Size%20Option%20-%20Dashboard.png)
 
+#### - Drag and drop both the sheets on the left onto the right( as its a default tiled behaviour)
+![](https://github.com/cynthiaalfred/Tableau-Sales-Report-Awesome-Chocolates/blob/main/Dashboard%20Charts.png)
+
+#### - Selected Floating Behaviour by clicking more options from the filter attached to the sheet and enable floating and rearrange as needed. The sheet can also be personalised as needed. 
+#### - Title can be edited & sheets can be renamed and to make the sheets interactive with each other > select Sales by Country Sheet> more options > use as filter
+
+![](https://github.com/cynthiaalfred/Tableau-Sales-Report-Awesome-Chocolates/blob/main/Dashboard%20-%20Filters.png)
