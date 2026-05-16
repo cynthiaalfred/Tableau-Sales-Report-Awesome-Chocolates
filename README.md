@@ -83,7 +83,7 @@ The goal was to explore Tableau features while building a simple but complete sa
 
 ![](https://github.com/cynthiaalfred/Tableau-Sales-Report-Awesome-Chocolates/blob/main/Table%20Visual.png)
 
-### Show Me panel:
+### SHOW ME panel to pick the type of chart Tableau suggests based on the data:
 
 ![](https://github.com/cynthiaalfred/Tableau-Sales-Report-Awesome-Chocolates/blob/main/Show%20me.png)
 
@@ -138,7 +138,7 @@ The goal was to explore Tableau features while building a simple but complete sa
 
 ![](https://github.com/cynthiaalfred/Tableau-Sales-Report-Awesome-Chocolates/blob/main/Dashboard%20Charts.png)
 
-### Enable interactivity and filters:
+### Enable interactivity using filter option:
 
 ![](https://github.com/cynthiaalfred/Tableau-Sales-Report-Awesome-Chocolates/blob/main/Dashboard%20-%20Filters.png)
 
